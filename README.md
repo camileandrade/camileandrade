@@ -1,8 +1,7 @@
-<h2>Hello, I'm Camile and welcome to my GitHub Profile!✨</h1>
+<h2>Olá, eu sou a Camile e seja bem-vindo ao meu perfil do GitHub!✨</h1>
 
-- 📍 I live in Paraná, Brazil.
-- 💻 I'm a systems analysis and development student.
-- 🌱 I'm constantly learning and evolving my programming skills.
-- 🎯 My current goal is to become a full stack developer.
-- 🚀 I love creating new projects.
-
+- 📍 Eu moro no Paraná, Brazil.
+- 💻 Eu sou uma estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou constantemente aprendendo e evoluindo minhas habilidades de programação.
+- 🎯 Meu objetivo atual é me tornar uma desenvolvedora front-end.
+- 🚀 Eu amo criar novos projetos.
