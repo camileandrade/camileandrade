@@ -1,7 +1,7 @@
 <h2>Hi, I'm Camile and welcome to my GitHub profile!✨</h2>
 
 - 📍 I live in Paraná, Brazil.
-- 💻 I have a degree in Systems Analysis and Development. 
+- 🎓 I have a degree in Systems Analysis and Development. 
 - 🌱 I'm constantly learning and improving my programming skills. 
 - 🎯 My current goal is to become a Software Engineer. 
 - 🚀 I love creating new projects.
