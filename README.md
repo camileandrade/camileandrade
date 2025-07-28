@@ -8,6 +8,8 @@
 
 <h2>My Tech Stack</h2>
 <p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ruby_on_rails-CC342D?style=for-the-badge&logo=rubyonrails&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -15,6 +17,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">
